@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. Iterable &amp; iterator/01. Iterable &amp; iterator.iml" filepath="$PROJECT_DIR$/01. Iterable &amp; iterator/01. Iterable &amp; iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. collection Interface/02. collection Interface.iml" filepath="$PROJECT_DIR$/02. collection Interface/02. collection Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. list Interface/03. list Interface.iml" filepath="$PROJECT_DIR$/03. list Interface/03. list Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. list interfac/03. list interfac.iml" filepath="$PROJECT_DIR$/03. list interfac/03. list interfac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. immutable list/04. immutable list.iml" filepath="$PROJECT_DIR$/04. immutable list/04. immutable list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. set interface/05. set interface.iml" filepath="$PROJECT_DIR$/05. set interface/05. set interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. immutable set/06. immutable set.iml" filepath="$PROJECT_DIR$/06. immutable set/06. immutable set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. sorted set interface/07. sorted set interface.iml" filepath="$PROJECT_DIR$/07. sorted set interface/07. sorted set interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. navigable set interface/08. navigable set interface.iml" filepath="$PROJECT_DIR$/08. navigable set interface/08. navigable set interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. Queue interface/09. Queue interface.iml" filepath="$PROJECT_DIR$/09. Queue interface/09. Queue interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. deque interface/10. deque interface.iml" filepath="$PROJECT_DIR$/10. deque interface/10. deque interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. Map Interface/11. Map Interface.iml" filepath="$PROJECT_DIR$/11. Map Interface/11. Map Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. immutable map/12. immutable map.iml" filepath="$PROJECT_DIR$/12. immutable map/12. immutable map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13. Sortedmap interface/13. Sortedmap interface.iml" filepath="$PROJECT_DIR$/13. Sortedmap interface/13. Sortedmap interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14. navigable map/14. navigable map.iml" filepath="$PROJECT_DIR$/14. navigable map/14. navigable map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15. Entry Map/15. Entry Map.iml" filepath="$PROJECT_DIR$/15. Entry Map/15. Entry Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16. Legacy Collection/16. Legacy Collection.iml" filepath="$PROJECT_DIR$/16. Legacy Collection/16. Legacy Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17. Sorting/17. Sorting.iml" filepath="$PROJECT_DIR$/17. Sorting/17. Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18. Binary Search/18. Binary Search.iml" filepath="$PROJECT_DIR$/18. Binary Search/18. Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19. Collectios Class/19. Collectios Class.iml" filepath="$PROJECT_DIR$/19. Collectios Class/19. Collectios Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20. Spliterator/20. Spliterator.iml" filepath="$PROJECT_DIR$/20. Spliterator/20. Spliterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21. Convert to Array/21. Convert to Array.iml" filepath="$PROJECT_DIR$/21. Convert to Array/21. Convert to Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCollection.iml" filepath="$PROJECT_DIR$/javaCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
